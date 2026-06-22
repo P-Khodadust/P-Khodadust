@@ -42,10 +42,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Khodadust&hide_border=true&theme=tokyonight" alt="streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=P-Khodadust&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-
 </div>
 
 ### 🤝 Connect
