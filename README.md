@@ -1,57 +1,64 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Pouya+%F0%9F%91%8B;Builder.+Indie+hacker.;I+turn+manual+busywork+into+bots.;Python+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+AI" alt="intro" />
-
-<br/>
-
-**I build AI automation tools, Telegram bots, and SaaS that ship fast.**
-
-<a href="https://github.com/P-Khodadust?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=P-Khodadust&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS"/>
+<img src="assets/neofetch.svg" alt="neofetch: Pouya Khodadust, builder of AI tools, bots and homebrew" width="100%">
 
 </div>
 
----
+```console
+pouya@github:~$ whoami
+pouya khodadust · builder · indie hacker · automation nerd
 
-### 🚀 What I'm building
+pouya@github:~$ cat mission.txt
+turn manual busywork into bots. ship small, ship often, ship open source.
+```
 
-- 🛩️ **[PostPilot](https://github.com/P-Khodadust/postpilot)** — a Telegram-native SaaS that auto-posts to X (Twitter) for small businesses. Official OAuth, exactly-once scheduler, multi-tenant, Dockerized.
-- ⚙️ **AI workflows & automations** — turning repetitive, manual work into one-tap bots and scripts.
-- 🧪 Always shipping something small and useful.
+## `~/projects`
 
-### 🧰 My toolbox
+```console
+pouya@github:~$ ls -l ~/projects
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Claude](https://img.shields.io/badge/LLMs%20%2F%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| repo | what it does | built with |
+|:--|:--|:--|
+| 🎮 **[joymind](https://github.com/P-Khodadust/joymind)** | AI chat client for Nintendo Switch homebrew: Claude, GPT, Gemini and local models, with screenshot questions, SSH commands and your game library | `C++` `libnx` `SDL2` |
+| ⚖️ **[crucible](https://github.com/P-Khodadust/crucible)** | Autonomous plan → build → judge loop for Claude Code: a planner, a builder, and a jury of skeptical judges that proves every acceptance criterion before it ships | `JavaScript` |
+| 🛩️ **[postpilot](https://github.com/P-Khodadust/postpilot)** | Telegram-native SaaS that schedules posts to X through the official API: multi-tenant, exactly-once scheduler, Dockerized | `Python` `FastAPI` `aiogram` |
+| 🔤 **[Claude-RTL](https://github.com/P-Khodadust/Claude-RTL)** | Makes Persian and Arabic render right-to-left on claude.ai. A tiny Manifest V3 extension with zero dependencies and no permissions | `JavaScript` |
 
-### 📊 By the numbers
+## `~/stack`
 
-<div align="center">
+```console
+pouya@github:~$ tree ~/stack
+~/stack
+├── lang/      python · c++ · javascript · bash
+├── backend/   fastapi · aiogram · postgresql · redis
+├── infra/     docker · linux · github actions
+└── ai/        llm agents · claude · automation
+```
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=P-Khodadust&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Khodadust&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,bash,fastapi,postgres,redis,docker,linux,githubactions,git&perline=11" alt="python, c++, javascript, bash, fastapi, postgresql, redis, docker, linux, github actions, git">
+</p>
 
-<br/>
+## `~/activity`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Khodadust&hide_border=true&theme=tokyonight" alt="streak" />
+```console
+pouya@github:~$ ./snake --eat contributions
+```
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P-Khodadust/P-Khodadust/output/snake-dark.svg">
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/P-Khodadust/P-Khodadust/output/snake.svg">
+</picture>
 
-### 🤝 Connect
+## `~/contact`
 
-<div align="center">
+```console
+pouya@github:~$ ping pouya
+64 bytes from github.com/P-Khodadust: issues and pull requests open, collabs on automation and indie tools welcome
+```
 
-<!-- Add your real handles and I'll wire these up: -->
-<a href="https://github.com/P-Khodadust"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<!-- <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
+<a href="https://github.com/P-Khodadust"><img src="https://img.shields.io/badge/github-P--Khodadust-22d3ee?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=P-Khodadust&style=flat-square&color=22d3ee&label=visitors" alt="profile visitors">
 
-</div>
-
-<div align="center"><sub>⚡ Building in public. Open to collabs on automation & indie SaaS.</sub></div>
+<sub>`exit 0`</sub>
