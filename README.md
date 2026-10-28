@@ -20,6 +20,7 @@ pouya@github:~$ ls -l ~/projects
 
 | repo | what it does | built with |
 |:--|:--|:--|
+| 🛡️ **[amneziawg-gui](https://github.com/P-Khodadust/amneziawg-gui)** | One-click AmneziaWG desktop app for Linux: a glowing power button, tray icon, live traffic and an honest connection status. Tunnels run as systemd services, and the GUI never runs as root | `Python` `PySide6` `systemd` |
 | 🎮 **[joymind](https://github.com/P-Khodadust/joymind)** | AI chat client for Nintendo Switch homebrew: Claude, GPT, Gemini and local models, with screenshot questions, SSH commands and your game library | `C++` `libnx` `SDL2` |
 | ⚖️ **[crucible](https://github.com/P-Khodadust/crucible)** | Autonomous plan → build → judge loop for Claude Code: a planner, a builder, and a jury of skeptical judges that proves every acceptance criterion before it ships | `JavaScript` |
 | 🛩️ **[postpilot](https://github.com/P-Khodadust/postpilot)** | Telegram-native SaaS that schedules posts to X through the official API: multi-tenant, exactly-once scheduler, Dockerized | `Python` `FastAPI` `aiogram` |
